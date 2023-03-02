@@ -1,7 +1,7 @@
-[![MasterHead](https://cdn.sanity.io/images/oaglaatp/production/3ab5bab7a6b794c1858673c0929560c8533f097e-1200x800.png?w=1200)]
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)]
 <h1 align="center">Hi 👋, I'm NIKIL KANNA</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikil16s&label=Profile%20views&color=0e75b6&style=flat" alt="nikil16s" /> </p>
 
